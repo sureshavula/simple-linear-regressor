@@ -1,0 +1,3 @@
+Conclusions : 
+1.100% Linear dependency is not observed in the data set because there are some points which are far away from the Linear Regressor constructed with the dataset.
+2.Accuracy can be increased by increasing the size of the dataset on which the model is trained.
